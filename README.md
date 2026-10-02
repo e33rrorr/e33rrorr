@@ -1,3 +1,8 @@
+# Hi 👋
+
+## A Bit About Me
+- Python Backend Developer
+
 ## Tech Stack
 
 ### Core
