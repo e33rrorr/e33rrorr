@@ -1,6 +1,6 @@
 # Hi 👋
 
-## A Bit About Me
+## About Me
 - Python Backend Developer
 
 ## Tech Stack
